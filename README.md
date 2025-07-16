@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cadygenie
-- 👀 I’m a Beginner
+
   
 
 <!---
